@@ -3,16 +3,6 @@
 Cardápio digital para a **Pizzeria Piemonte** (São Paulo — SP).  
 Site estático 100% em HTML + CSS + JavaScript puro — sem frameworks, sem dependências.
 
-## 🚀 Como usar
-
-Basta abrir o `index.html` direto no navegador, ou hospedar em qualquer servidor estático.
-
-### GitHub Pages
-
-1. Faça o fork ou upload deste repositório no GitHub
-2. Vá em **Settings → Pages**
-3. Em "Source", selecione `main` branch e pasta `/ (root)`
-4. Clique em **Save** — o site estará disponível em `https://seu-usuario.github.io/nome-do-repositorio/`
 
 ## 📂 Estrutura
 
